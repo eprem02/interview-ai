@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Coach",
+  "description": "Upload your resume, conduct voice-enabled mock interviews with AI, receive detailed feedback, and track your interview preparedness dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
