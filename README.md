@@ -1,4 +1,4 @@
-# InterviewAI
+# InterviewAI- AI Career Coach & Interview Preparartion Platform
 
 An AI-powered interview preparation platform built using Gemini AI.
 
